@@ -1,0 +1,24 @@
+{
+  "name": "assignment21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericflynn1/assignment21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericflynn1/assignment21/issues"
+  },
+  "homepage": "https://github.com/ericflynn1/assignment21#readme",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "jquery-ui": "^1.12.0",
+    "lodash": "^4.15.0"
+  }
+}
