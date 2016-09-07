@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ericflynn1/assignment21#readme",
   "dependencies": {
+    "gulp": "^3.9.1",
     "jquery": "^3.1.0",
     "jquery-ui": "^1.12.0",
     "lodash": "^4.15.0"
